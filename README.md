@@ -1,7 +1,7 @@
 # hello-world
 # ===========
 #
-# Hi humans!
+# Hi everyone!
 # 
-# Hubot here.  I like node.js and coffeescript (that's what I'm made of!).
-# I've had tacos on the moonand find them far superior to earth tacos.
+# Stephen here.  I like VMware and Java.
+# I've had barbecue in Texas and find it great.
